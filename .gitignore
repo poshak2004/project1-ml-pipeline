@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+.env
+.venv/
+venv/
+*.pyc
+data/processed/
+models/
+reports/figures/
+.streamlit/
